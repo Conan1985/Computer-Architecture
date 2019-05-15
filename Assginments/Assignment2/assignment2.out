@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section*.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{section*.2}{Pentium Family}{section*.1}% 2
+\BOOKMARK [2][-]{section*.3}{Pentium Overview}{section*.1}% 3
+\BOOKMARK [2][-]{section*.5}{Pentium Structure}{section*.1}% 4
+\BOOKMARK [1][-]{section*.7}{Concepts of Computer Architecture}{}% 5
+\BOOKMARK [2][-]{section*.11}{Pentium Improvements on von Neumann}{section*.7}% 6
+\BOOKMARK [1][-]{section*.12}{Branch Prediction}{}% 7
+\BOOKMARK [2][-]{section*.15}{Static Branch Prediction}{section*.12}% 8
+\BOOKMARK [2][-]{section*.16}{Dynamic Branch Prediction}{section*.12}% 9
+\BOOKMARK [2][-]{section*.17}{Pentium on Branch Prediction}{section*.12}% 10
+\BOOKMARK [1][-]{section*.20}{System Architecture}{}% 11
+\BOOKMARK [2][-]{section*.21}{Pentium Architecture}{section*.20}% 12
+\BOOKMARK [1][-]{section*.23}{Rapid Execution Module}{}% 13
+\BOOKMARK [1][-]{section*.25}{Memory Subsystem}{}% 14
+\BOOKMARK [2][-]{section*.27}{Pentium Memory Subsystem}{section*.25}% 15
+\BOOKMARK [1][-]{section*.29}{Hyperthreading Technology}{}% 16
+\BOOKMARK [1][-]{section*.31}{RISC and CISC Convergence, Advantages of RISC, Design Issues of RISC Processors}{}% 17
+\BOOKMARK [2][-]{section*.32}{RISC}{section*.31}% 18
+\BOOKMARK [2][-]{section*.33}{CISC}{section*.31}% 19
+\BOOKMARK [2][-]{section*.34}{RISC and CISC Convergence}{section*.31}% 20
+\BOOKMARK [1][-]{section*.36}{Conclusion}{}% 21
+\BOOKMARK [1][-]{section*.37}{References}{}% 22

@@ -1,0 +1,526 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Alpert%
+\ \BBA {} Avnon%
+}{%
+Alpert%
+\ \BBA {} Avnon%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+Alpert1993}
+\APACinsertmetastar {%
+Alpert1993}%
+\begin{APACrefauthors}%
+Alpert, D.%
+\BCBT {}\ \BBA {} Avnon, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Architecture of the {P}entium {M}icroprocessor}
+  {Architecture of the {P}entium {M}icroprocessor}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{IEEE} Micro}{}{}{11--21}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bryant%
+\ \BBA {} O'Hallaron%
+}{%
+Bryant%
+\ \BBA {} O'Hallaron%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Bryant2015}
+\APACinsertmetastar {%
+Bryant2015}%
+\begin{APACrefauthors}%
+Bryant, R\BPBI E.%
+\BCBT {}\ \BBA {} O'Hallaron, D\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Computer {S}ystems: {A} {P}rogrammer's {P}erspective} {Computer
+  {S}ystems: {A} {P}rogrammer's {P}erspective}.
+\newblock
+\APACaddressPublisher{}{Pearson}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Byte%
+}{%
+Byte%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Byte}
+\APACinsertmetastar {%
+Byte}%
+\begin{APACrefauthors}%
+Byte.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How {P}rediction {W}orks} {How {P}rediction
+  {W}orks}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dandamudi%
+}{%
+Dandamudi%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Dandamudi2003}
+\APACinsertmetastar {%
+Dandamudi2003}%
+\begin{APACrefauthors}%
+Dandamudi, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {Fundamentals of {C}omputer {O}rganization and {D}esign}
+  {Fundamentals of {C}omputer {O}rganization and {D}esign}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Das%
+}{%
+Das%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Das}
+\APACinsertmetastar {%
+Das}%
+\begin{APACrefauthors}%
+Das, S\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pentium {A}rchitecture} {Pentium {A}rchitecture}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+elprocus%
+}{%
+elprocus%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+elprocus}
+\APACinsertmetastar {%
+elprocus}%
+\begin{APACrefauthors}%
+elprocus.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding about {RISC} and {CISC} {A}rchitectures}
+  {Understanding about {RISC} and {CISC} {A}rchitectures}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL}
+  \url{https://www.elprocus.com/what-is-risc-and-cisc-architecture-and-their-workings/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+GeeksforGeeks%
+}{%
+GeeksforGeeks%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+GeeksforGeeks}
+\APACinsertmetastar {%
+GeeksforGeeks}%
+\begin{APACrefauthors}%
+GeeksforGeeks.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Branch {Prediction} in {P}entium} {Branch {Prediction}
+  in {P}entium}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hesseldahl%
+}{%
+Hesseldahl%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Hesseldahl2000}
+\APACinsertmetastar {%
+Hesseldahl2000}%
+\begin{APACrefauthors}%
+Hesseldahl, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{{\APACmonth{07}}}{}.
+\newblock
+\APACrefbtitle {Why {C}ool {C}hip {C}ode {N}ames {D}ie} {Why {C}ool {C}hip
+  {C}ode {N}ames {D}ie}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{Forbes.com}.
+\newblock
+\begin{APACrefURL} \url{http://www.ece.iastate.edu/~morris/cs570/name.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hinton%
+\ \protect \BOthers {.}}{%
+Hinton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2001}}%
+}]{%
+Hinton2001}
+\APACinsertmetastar {%
+Hinton2001}%
+\begin{APACrefauthors}%
+Hinton, G.%
+, Sager, D.%
+, Upton, M.%
+, Boggs, D.%
+, Carmean, D.%
+, Kyker, A.%
+\BCBL {}\ \BBA {} Roussel, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {M}icroarchitecture of the {P}entium 4 {P}rocessor}
+  {The {M}icroarchitecture of the {P}entium 4 {P}rocessor}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Intel Technology Journal}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Intel%
+}{%
+Intel%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Intel2007}
+\APACinsertmetastar {%
+Intel2007}%
+\begin{APACrefauthors}%
+Intel.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Product {C}hange {N}otification} {Product {C}hange
+  {N}otification}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL}
+  \url{https://qdms.intel.com/dm/i.aspx/B5883E95-206A-481F-8A33-A81B6E7F14D7/PCN107779-00.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Karbosguide%
+}{%
+Karbosguide%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Karbosguide}
+\APACinsertmetastar {%
+Karbosguide}%
+\begin{APACrefauthors}%
+Karbosguide.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {I}ntel {P}entium 4 prossor} {The {I}ntel {P}entium
+  4 prossor}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kolinko%
+\ \BBA {} Lee%
+}{%
+Kolinko%
+\ \BBA {} Lee%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Kolinko}
+\APACinsertmetastar {%
+Kolinko}%
+\begin{APACrefauthors}%
+Kolinko, E.%
+\BCBT {}\ \BBA {} Lee, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Branch {P}rediction} {Branch {P}rediction}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marr%
+\ \protect \BOthers {.}}{%
+Marr%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2002}}%
+}]{%
+Marr2002}
+\APACinsertmetastar {%
+Marr2002}%
+\begin{APACrefauthors}%
+Marr, D\BPBI T.%
+, Binns, F.%
+, Hill, D\BPBI L.%
+, Hinton, G.%
+, Koufaty, D\BPBI A.%
+, Miller, J\BPBI A.%
+\BCBL {}\ \BBA {} Upton, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Hyper-{T}hreading {T}echnology {A}rchitecture and
+  {M}icroarchitecture} {Hyper-{T}hreading {T}echnology {A}rchitecture and
+  {M}icroarchitecture}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Intel Technology Journal}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McFarland%
+}{%
+McFarland%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+McFarland2006}
+\APACinsertmetastar {%
+McFarland2006}%
+\begin{APACrefauthors}%
+McFarland, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {Microprocessor {D}esign: {A} {P}ractical {G}uide from {D}esign
+  {P}lanning to {M}anufacture} {Microprocessor {D}esign: {A} {P}ractical
+  {G}uide from {D}esign {P}lanning to {M}anufacture}.
+\newblock
+\APACaddressPublisher{}{McGraw-Hill}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mittal%
+}{%
+Mittal%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Mittal2016}
+\APACinsertmetastar {%
+Mittal2016}%
+\begin{APACrefauthors}%
+Mittal, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A {S}urvey of {T}echniques for {D}ynamic {B}ranch
+  {P}rediction} {A {S}urvey of {T}echniques for {D}ynamic {B}ranch
+  {P}rediction}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{CONCURRENCY AND COMPUTATION: PRACTICE AND
+  EXPERIENCE}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Null%
+\ \BBA {} Lobur%
+}{%
+Null%
+\ \BBA {} Lobur%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Null2012}
+\APACinsertmetastar {%
+Null2012}%
+\begin{APACrefauthors}%
+Null, L.%
+\BCBT {}\ \BBA {} Lobur, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {The {E}ssentials of {C}omputer {O}rganization and
+  {A}rchitecture} {The {E}ssentials of {C}omputer {O}rganization and
+  {A}rchitecture}.
+\newblock
+\APACaddressPublisher{}{Jones \& Bartlett Learning, LLC}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+pctechguide%
+}{%
+pctechguide%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+pctechguide}
+\APACinsertmetastar {%
+pctechguide}%
+\begin{APACrefauthors}%
+pctechguide.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Basic structure of a {P}entium microprocessor} {Basic structure
+  of a {P}entium microprocessor}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitutionEqAuth{}{pctechguide}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.pctechguide.com/cpu-architecture/basic-structure-of-a-pentium-microprocessor}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shrestha%
+\ \BBA {} Ram%
+}{%
+Shrestha%
+\ \BBA {} Ram%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Shrestha2014}
+\APACinsertmetastar {%
+Shrestha2014}%
+\begin{APACrefauthors}%
+Shrestha%
+\BCBT {}\ \BBA {} Ram, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Computer {E}ssentials} {Computer {E}ssentials}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Kathmandu: Asmita's Publication}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stevens%
+\ \BBA {} Viglas%
+}{%
+Stevens%
+\ \BBA {} Viglas%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Stevens2009}
+\APACinsertmetastar {%
+Stevens2009}%
+\begin{APACrefauthors}%
+Stevens, P.%
+\BCBT {}\ \BBA {} Viglas, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\APACrefbtitle {Computer {S}ystems \& {S}oftware {E}ngineering} {Computer
+  {S}ystems \& {S}oftware {E}ngineering}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{University of Edinburgh}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stokes%
+}{%
+Stokes%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Stokes2002}
+\APACinsertmetastar {%
+Stokes2002}%
+\begin{APACrefauthors}%
+Stokes, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introduction to {M}ultithreading, {S}uperthreading and
+  {H}yperthreading} {Introduction to {M}ultithreading, {S}uperthreading and
+  {H}yperthreading}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ars Technica}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vinyard%
+}{%
+Vinyard%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Vinyard2000}
+\APACinsertmetastar {%
+Vinyard2000}%
+\begin{APACrefauthors}%
+Vinyard, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+\APACrefbtitle {Prediction} {Prediction}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{NMSU}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.cs.nmsu.edu/~rvinyard/itanium/predication.htm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

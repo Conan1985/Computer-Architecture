@@ -1,0 +1,405 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Arpaci-Dusseau%
+\ \BBA {} Arpaci-Dusseau%
+}{%
+Arpaci-Dusseau%
+\ \BBA {} Arpaci-Dusseau%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Arpaci-Dusseau2014}
+\APACinsertmetastar {%
+Arpaci-Dusseau2014}%
+\begin{APACrefauthors}%
+Arpaci-Dusseau, R\BPBI H.%
+\BCBT {}\ \BBA {} Arpaci-Dusseau, A\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Operating {Systems}: {Three} {Easy} {Pieces}} {Operating
+  {Systems}: {Three} {Easy} {Pieces}}.
+\newblock
+\APACaddressPublisher{}{Arpaci-Dusseau Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Beal%
+}{%
+Beal%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Beal2018}
+\APACinsertmetastar {%
+Beal2018}%
+\begin{APACrefauthors}%
+Beal, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Relative} {Address}.} {{Relative} {Address}.}
+\newblock
+\begin{APACrefURL} \url{https://www.webopedia.com/TERM/R/relative_address.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duarte%
+}{%
+Duarte%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Duarte2009}
+\APACinsertmetastar {%
+Duarte2009}%
+\begin{APACrefauthors}%
+Duarte, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{{\APACmonth{01}}}{}.
+\newblock
+\APACrefbtitle {Anatomy of a {Program} in {Memory}.} {Anatomy of a {Program} in
+  {Memory}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://manybutfinite.com/post/anatomy-of-a-program-in-memory/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Englander%
+}{%
+Englander%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Englander2003}
+\APACinsertmetastar {%
+Englander2003}%
+\begin{APACrefauthors}%
+Englander, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {The architecture of computer hardware and systems software}
+  {The architecture of computer hardware and systems software}.
+\newblock
+\APACaddressPublisher{}{Wiley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+GeeksforGeeks%
+}{%
+GeeksforGeeks%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+GeeksforGeeks2018}
+\APACinsertmetastar {%
+GeeksforGeeks2018}%
+\begin{APACrefauthors}%
+GeeksforGeeks.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Operating {System} | {Paging}.} {Operating {System} |
+  {Paging}.}
+\newblock
+\begin{APACrefURL} \url{https://www.geeksforgeeks.org/operating-system-paging/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gibson%
+}{%
+Gibson%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+Gibson1988}
+\APACinsertmetastar {%
+Gibson1988}%
+\begin{APACrefauthors}%
+Gibson, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1988}.
+\newblock
+\APACrefbtitle {Tech {Talk}: {Placing} the {IBM}/{Microsoft} {XMS} {Spec} into
+  {Perspective}} {Tech {Talk}: {Placing} the {IBM}/{Microsoft} {XMS} {Spec}
+  into {Perspective}}.
+\newblock
+\APACaddressPublisher{}{Infoworld}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Intel%
+}{%
+Intel%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Intel2012}
+\APACinsertmetastar {%
+Intel2012}%
+\begin{APACrefauthors}%
+Intel.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Intel 64 and {IA-32} {Architectures} {Software} {Developer’s}
+  {Manual} {Volume} 3 (3{A}, 3{B} \& 3{C}): {System} {Programming} {Guide}}
+  {Intel 64 and {IA-32} {Architectures} {Software} {Developer’s} {Manual}
+  {Volume} 3 (3{A}, 3{B} \& 3{C}): {System} {Programming} {Guide}}.
+\newblock
+\APACaddressPublisherEqAuth{}{Intel}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kameda%
+, Fathy%
+, Ryu%
+\BCBL {}\ \BBA {} Li%
+}{%
+Kameda%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2000}}%
+}]{%
+Kameda2000}
+\APACinsertmetastar {%
+Kameda2000}%
+\begin{APACrefauthors}%
+Kameda, H.%
+, Fathy, E\BHBI Z\BPBI S.%
+, Ryu, I.%
+\BCBL {}\ \BBA {} Li, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A {Performance} {Comparison} of {Dynamic} vs. {Static}
+  {Load} {Balancing} {Policies} in a {Mainframe} - {Personal} {Computer}
+  {Network} {Model}} {A {Performance} {Comparison} of {Dynamic} vs. {Static}
+  {Load} {Balancing} {Policies} in a {Mainframe} - {Personal} {Computer}
+  {Network} {Model}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the {IEEE} Conference on Decision and
+  Control} {Proceedings of the {IEEE} conference on decision and control}\
+  (\BVOL~2, \BPGS\ 1415--1420).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Madnick%
+\ \BBA {} Donovan%
+}{%
+Madnick%
+\ \BBA {} Donovan%
+}{%
+{\protect \APACyear {1974}}%
+}]{%
+Madnick1974}
+\APACinsertmetastar {%
+Madnick1974}%
+\begin{APACrefauthors}%
+Madnick, S.%
+\BCBT {}\ \BBA {} Donovan, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1974}.
+\newblock
+\APACrefbtitle {Operating {Systems}} {Operating {Systems}}.
+\newblock
+\APACaddressPublisher{}{McGraw-Hill Book Company}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Oxford%
+}{%
+Oxford%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Oxford2004}
+\APACinsertmetastar {%
+Oxford2004}%
+\begin{APACrefauthors}%
+Oxford.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {A {Dictionary} of {Computing}} {A {Dictionary} of {Computing}}.
+\newblock
+\APACaddressPublisher{}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Petzold%
+}{%
+Petzold%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Petzold2000}
+\APACinsertmetastar {%
+Petzold2000}%
+\begin{APACrefauthors}%
+Petzold, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {Code: {The} {Hidden} {Language} of {Computer} {Hardware} and
+  {Software}} {Code: {The} {Hidden} {Language} of {Computer} {Hardware} and
+  {Software}}.
+\newblock
+\APACaddressPublisher{}{Microsoft Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Silberschatz%
+, Galvin%
+, Gagne%
+\BCBL {}\ \BBA {} Silberschatz%
+}{%
+Silberschatz%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2001}}%
+}]{%
+Silberschatz2001}
+\APACinsertmetastar {%
+Silberschatz2001}%
+\begin{APACrefauthors}%
+Silberschatz, A.%
+, Galvin, P\BPBI B.%
+, Gagne, G.%
+\BCBL {}\ \BBA {} Silberschatz, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2001}.
+\newblock
+\APACrefbtitle {Operating {System} {Concepts}} {Operating {System} {Concepts}}\
+  (\PrintOrdinal{Sixth}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Wiley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stevens%
+}{%
+Stevens%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Stevens1992}
+\APACinsertmetastar {%
+Stevens1992}%
+\begin{APACrefauthors}%
+Stevens, W\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1992}.
+\newblock
+\APACrefbtitle {Advanced {Programming} in the {Unix} {Environment}} {Advanced
+  {Programming} in the {Unix} {Environment}}.
+\newblock
+\APACaddressPublisher{}{Addison–Wesley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Symantec%
+}{%
+Symantec%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Symantec2010}
+\APACinsertmetastar {%
+Symantec2010}%
+\begin{APACrefauthors}%
+Symantec.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{{\APACmonth{09}}}{}.
+\newblock
+\APACrefbtitle {Switches: {Sector} {Copy}} {Switches: {Sector} {Copy}}\
+  \APACbVolEdTR {}{techreport\ \BNUM\ TECH107956}.
+\newblock
+\APACaddressInstitution{}{Symantec Corporation}.
+\newblock
+\begin{APACrefURL} \url{https://www.symantec.com/docs/TECH107956}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+tutorialspoint%
+}{%
+tutorialspoint%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+tutorialspoint2018}
+\APACinsertmetastar {%
+tutorialspoint2018}%
+\begin{APACrefauthors}%
+tutorialspoint.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Operating {System} - {Memory} {Management}.} {Operating
+  {System} - {Memory} {Management}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.tutorialspoint.com/operating_system/os_memory_management.htm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vissicomp%
+}{%
+Vissicomp%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Vissicomp2014}
+\APACinsertmetastar {%
+Vissicomp2014}%
+\begin{APACrefauthors}%
+Vissicomp.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{{\APACmonth{11}}}{}.
+\newblock
+\APACrefbtitle {Memory management.} {Memory management.}
+\newblock
+\begin{APACrefURL}
+  \url{https://vissicompcodder.wordpress.com/2014/11/27/memory-management/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

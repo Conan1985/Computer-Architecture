@@ -1,0 +1,149 @@
+% Encoding: UTF-8
+
+@TechReport{Hesseldahl2000,
+  author      = {Arik Hesseldahl},
+  title       = {Why {C}ool {C}hip {C}ode {N}ames {D}ie},
+  institution = {Forbes.com},
+  year        = {2000},
+  month       = jul,
+  url         = {http://www.ece.iastate.edu/~morris/cs570/name.html},
+}
+
+@Article{Alpert1993,
+  author  = {Donald Alpert and Dror Avnon},
+  title   = {Architecture of the {P}entium {M}icroprocessor},
+  journal = {{IEEE} Micro},
+  year    = {1993},
+  pages   = {11--21},
+  month   = sep,
+}
+
+@Book{Dandamudi2003,
+  title     = {Fundamentals of {C}omputer {O}rganization and {D}esign},
+  publisher = {Springer},
+  year      = {2003},
+  author    = {S. Dandamudi},
+}
+
+@TechReport{pctechguide,
+  author      = {pctechguide},
+  title       = {Basic structure of a {P}entium microprocessor},
+  institution = {pctechguide},
+  year        = {2018},
+  url         = {https://www.pctechguide.com/cpu-architecture/basic-structure-of-a-pentium-microprocessor},
+}
+
+@Article{Shrestha2014,
+  author  = {Shrestha and Prachanda Ram},
+  title   = {Computer {E}ssentials},
+  journal = {Kathmandu: Asmita's Publication},
+  year    = {2014},
+}
+
+@Book{Null2012,
+  title     = {The {E}ssentials of {C}omputer {O}rganization and {A}rchitecture},
+  publisher = {Jones \& Bartlett Learning, LLC},
+  year      = {2012},
+  author    = {Linda Null and Julia Lobur},
+}
+
+@Manual{Intel2007,
+  title        = {Product {C}hange {N}otification},
+  author       = {Intel},
+  organization = {Intel},
+  year         = {2007},
+  url          = {https://qdms.intel.com/dm/i.aspx/B5883E95-206A-481F-8A33-A81B6E7F14D7/PCN107779-00.pdf},
+}
+
+@Manual{Kolinko,
+  title  = {Branch {P}rediction},
+  author = {Eugene Kolinko and Joon Lee},
+}
+
+@TechReport{Vinyard2000,
+  author      = {Rick Vinyard},
+  title       = {Prediction},
+  institution = {NMSU},
+  year        = {2000},
+  url         = {https://www.cs.nmsu.edu/~rvinyard/itanium/predication.htm},
+}
+
+@Manual{Byte,
+  title        = {How {P}rediction {W}orks},
+  author       = {Byte},
+  organization = {Byte.com},
+}
+
+@Book{McFarland2006,
+  title     = {Microprocessor {D}esign: {A} {P}ractical {G}uide from {D}esign {P}lanning to {M}anufacture},
+  publisher = {McGraw-Hill},
+  year      = {2006},
+  author    = {Grant McFarland},
+}
+
+@Article{Mittal2016,
+  author  = {Sparsh Mittal},
+  title   = {A {S}urvey of {T}echniques for {D}ynamic {B}ranch {P}rediction},
+  journal = {CONCURRENCY AND COMPUTATION: PRACTICE AND EXPERIENCE},
+  year    = {2016},
+}
+
+@Manual{GeeksforGeeks,
+  title        = {Branch {Prediction} in {P}entium},
+  author       = {GeeksforGeeks},
+  organization = {GeeksforGeeks.org},
+}
+
+@Manual{Das,
+  title  = {Pentium {A}rchitecture},
+  author = {S. P. Das},
+}
+
+@Manual{Karbosguide,
+  title        = {The {I}ntel {P}entium 4 prossor},
+  author       = {Karbosguide},
+  organization = {Karbosguide.com},
+}
+
+@TechReport{Stevens2009,
+  author      = {Perdita Stevens and Stratis Viglas},
+  title       = {Computer {S}ystems \& {S}oftware {E}ngineering},
+  institution = {University of Edinburgh},
+  year        = {2009},
+}
+
+@Book{Bryant2015,
+  title     = {Computer {S}ystems: {A} {P}rogrammer's {P}erspective},
+  publisher = {Pearson},
+  year      = {2015},
+  author    = {Randal E. Bryant and David R. O'Hallaron},
+}
+
+@Article{Hinton2001,
+  author  = {Glenn Hinton and Dave Sager and Mike Upton and Darrell Boggs and Doug Carmean and Alan Kyker and Patrice Roussel},
+  title   = {The {M}icroarchitecture of the {P}entium 4 {P}rocessor},
+  journal = {Intel Technology Journal},
+  year    = {2001},
+}
+
+@Article{Marr2002,
+  author  = {Deborah T. Marr and Frank Binns and David L. Hill and Glenn Hinton and David A. Koufaty and J. Alan Miller and Michael Upton},
+  title   = {Hyper-{T}hreading {T}echnology {A}rchitecture and {M}icroarchitecture},
+  journal = {Intel Technology Journal},
+  year    = {2002},
+}
+
+@Article{Stokes2002,
+  author  = {Jon Stokes},
+  title   = {Introduction to {M}ultithreading, {S}uperthreading and {H}yperthreading},
+  journal = {Ars Technica},
+  year    = {2002},
+}
+
+@Manual{elprocus,
+  title  = {Understanding about {RISC} and {CISC} {A}rchitectures},
+  author = {elprocus},
+  url    = {https://www.elprocus.com/what-is-risc-and-cisc-architecture-and-their-workings/},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

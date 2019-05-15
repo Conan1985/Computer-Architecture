@@ -1,0 +1,29 @@
+\BOOKMARK [1][-]{section*.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section*.2}{Process Address Space}{}% 2
+\BOOKMARK [2][-]{section*.4}{Kernel space}{section*.2}% 3
+\BOOKMARK [2][-]{section*.5}{Stack}{section*.2}% 4
+\BOOKMARK [2][-]{section*.6}{Memory mapping segment}{section*.2}% 5
+\BOOKMARK [2][-]{section*.7}{Heap}{section*.2}% 6
+\BOOKMARK [2][-]{section*.8}{BSS segment}{section*.2}% 7
+\BOOKMARK [2][-]{section*.9}{Data segment}{section*.2}% 8
+\BOOKMARK [2][-]{section*.10}{Text segment}{section*.2}% 9
+\BOOKMARK [1][-]{section*.11}{Types of Addresses}{}% 10
+\BOOKMARK [1][-]{section*.12}{Symbolic Addresses}{}% 11
+\BOOKMARK [1][-]{section*.14}{Relative Addresses}{}% 12
+\BOOKMARK [1][-]{section*.16}{Physical Addresses}{}% 13
+\BOOKMARK [1][-]{section*.17}{Static vs Dynamic Loading}{}% 14
+\BOOKMARK [1][-]{section*.19}{Static vs Dynamic Linking}{}% 15
+\BOOKMARK [1][-]{section*.20}{Swapping}{}% 16
+\BOOKMARK [1][-]{section*.22}{Memory Allocation}{}% 17
+\BOOKMARK [1][-]{section*.23}{Single-partition Allocation}{}% 18
+\BOOKMARK [1][-]{section*.25}{Multiple-partition Allocation}{}% 19
+\BOOKMARK [1][-]{section*.27}{Fragmentation}{}% 20
+\BOOKMARK [1][-]{section*.29}{External Fragmentation}{}% 21
+\BOOKMARK [1][-]{section*.31}{Internal Fragmentation}{}% 22
+\BOOKMARK [1][-]{section*.32}{Paging}{}% 23
+\BOOKMARK [1][-]{section*.34}{Address Translation}{}% 24
+\BOOKMARK [1][-]{section*.37}{Segmentation}{}% 25
+\BOOKMARK [2][-]{section*.38}{Segmentation without paging}{section*.37}% 26
+\BOOKMARK [2][-]{section*.39}{Segmentation with paging}{section*.37}% 27
+\BOOKMARK [1][-]{section*.40}{Conclusion}{}% 28
+\BOOKMARK [1][-]{section*.41}{References}{}% 29
